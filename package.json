@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "egg-bin dev",
-    "start": "egg-scripts start --port=7881 --daemon --title=count_api",
+    "start": "egg-scripts start --port=80 --daemon --title=count_api",
     "stop": "egg-scripts stop --title=count_api"
   },
   "keywords": [],
